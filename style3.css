@@ -1,0 +1,332 @@
+.nav {
+    display: flex;
+    width: 100%;
+    height: 100px;
+    border-bottom: 2px solid rgb(203, 200, 200);
+}
+
+.logo {
+    height: 100px;
+    width: 100px;
+    margin-left: 30px;
+}
+
+.i1 {
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.left {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 100px;
+    width: 400px;
+    margin-left: 20px;
+}
+
+.left p {
+    font-family: "Crete Round", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.right {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 100px;
+    width: 400px;
+    margin-left: 300px;
+}
+
+.right i {
+    margin-left: 40px;
+    font-size: 20px;
+}
+
+.right p {
+    font-family: "Crete Round", serif;
+    font-weight: 400;
+    font-style: normal;
+    cursor: pointer;
+}
+
+.sign {
+    height: 35px;
+    width: 100px;
+    border-radius: 20px;
+    border: 2px solid black;
+    cursor: pointer;
+}
+
+.join {
+    height: 40px;
+    width: 100px;
+    border-radius: 20px;
+    background-color: black;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+
+.low {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 600px;
+    width: 100%;
+    margin-top: 30px;
+}
+
+.l1 {
+    display: flex;
+    flex-direction: column;
+    height: 600px;
+    width: 600px;
+    background-color: #006241;
+}
+
+.r1 {
+    height: 600px;
+    width: 600px;
+    background-color: #006241;
+}
+
+.image {
+    width: 600px;
+    height: 350px;
+}
+
+.l1 p {
+    font-family: "Open Sans", sans-serif;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+.star {
+    border: 2px solid white;
+    color: white;
+    background-color: #006241;
+    height: 45px;
+    width: 150px;
+    border-radius: 25px;
+    margin-left: 220px;
+}
+
+.r1 p {
+    font-family: "Open Sans", sans-serif;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+.low1 {
+    display: flex;
+    height: 500px;
+    width: 100%;
+    background-color: #32462f;
+    margin-top: 30px;
+}
+
+.im {
+    height: 500px;
+    width: 1050px;
+    background-image: url("Screenshot\ 2025-07-19\ 215103.png");
+    background-size: cover;
+}
+
+.con p {
+    color: white;
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    font-size: 20px;
+}
+
+.h1 {
+    height: 70px;
+    width: 630px;
+}
+
+.h2 {
+    height: 250px;
+    width: 630px;
+    margin-top: 40px;
+}
+
+.h1 p {
+    font-size: 50px;
+}
+
+.h2 p {
+    font-size: 30px;
+    text-align: center;
+}
+
+.star1 {
+    border: 2px solid white;
+    color: white;
+    background-color: #32462f;
+    height: 45px;
+    width: 150px;
+    border-radius: 25px;
+    margin-left: 240px;
+}
+
+.low2 {
+    display: flex;
+    background-color: #f7f0e4;
+    height: 350px;
+    width: 100%;
+    margin-top: 30px;
+}
+
+.con1 {
+    height: 350px;
+    width: 50%;
+}
+
+.img1 {
+    height: 350px;
+    width: 50%;
+    background-image: url("demi-deherrera-L-sm1B4L1Ns-unsplash.jpg");
+    background-size: cover;
+}
+
+.h3 p {
+    color: #32462f;
+    text-align: center;
+    font-size: 40px;
+    font-family: "Open Sans", sans-serif;
+}
+
+.h4 p {
+    color: #32462f;
+    text-align: center;
+    font-size: 30px;
+    font-family: "Open Sans", sans-serif;
+}
+
+.star2 {
+    border: 2px solid #32462f;
+    color: #32462f;
+    background-color: #f7f0e4;
+    height: 45px;
+    width: 150px;
+    border-radius: 25px;
+    margin-left: 220px;
+}
+
+.low3 {
+    display: flex;
+    height: 500px;
+    width: 100%;
+    background-color: #32462f;
+    margin-top: 30px;
+}
+
+.h5 {
+    height: 70px;
+    width: 630px;
+}
+
+.h6 {
+    height: 200px;
+    width: 630px;
+    margin-top: 70px;
+}
+
+.h5 p {
+    font-size: 50px;
+    text-align: center;
+}
+
+.h6 p {
+    font-size: 30px;
+    text-align: center;
+}
+
+.im1 {
+    height: 500px;
+    width: 1050px;
+    background-image: url("felipe-ferreira-U4HePvZ4tA4-unsplash.jpg");
+    background-size: cover;
+}
+
+.low4 {
+    display: flex;
+    height: 500px;
+    width: 100%;
+    background-color: #006241;
+    margin-top: 30px;
+}
+
+.h7 {
+    height: 70px;
+    width: 630px;
+}
+
+.h8 {
+    height: 200px;
+    width: 630px;
+    margin-top: 70px;
+}
+
+.h7 p {
+    font-size: 50px;
+    text-align: center;
+}
+
+.h8 p {
+    font-size: 30px;
+    text-align: center;
+}
+
+.star3 {
+    border: 2px solid white;
+    background-color: #006241;
+    color: white;
+    height: 45px;
+    width: 150px;
+    border-radius: 25px;
+    margin-left: 220px;
+}
+
+.im2 {
+    height: 500px;
+    width: 1050px;
+    background-image: url("Screenshot\ 2025-07-19\ 223645.png");
+    background-size: cover;
+}
+
+.low5 {
+    height: 500px;
+    width: 100%;
+    margin-top: 30px;
+}
+
+.low5 p {
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+}
+.icons{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    height: 200px;
+    width: 40%;
+    margin-top: 20px;
+}
+.icons i{
+    font-size: 30px;
+
+}
+.c p{
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+}
