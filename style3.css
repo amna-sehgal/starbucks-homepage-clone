@@ -29,6 +29,7 @@
 }
 
 .left p {
+    cursor: pointer;
     font-family: "Crete Round", serif;
     font-weight: 400;
     font-style: normal;
@@ -56,6 +57,7 @@
 }
 
 .sign {
+    cursor: pointer;
     height: 35px;
     width: 100px;
     border-radius: 20px;
@@ -64,6 +66,7 @@
 }
 
 .join {
+    cursor: pointer;
     height: 40px;
     width: 100px;
     border-radius: 20px;
@@ -109,6 +112,7 @@
 }
 
 .star {
+    cursor: pointer;
     border: 2px solid white;
     color: white;
     background-color: #006241;
@@ -168,6 +172,7 @@
 }
 
 .star1 {
+    cursor: pointer;
     border: 2px solid white;
     color: white;
     background-color: #32462f;
@@ -212,6 +217,7 @@
 }
 
 .star2 {
+    cursor: pointer;
     border: 2px solid #32462f;
     color: #32462f;
     background-color: #f7f0e4;
@@ -287,6 +293,7 @@
 }
 
 .star3 {
+    cursor: pointer;
     border: 2px solid white;
     background-color: #006241;
     color: white;
