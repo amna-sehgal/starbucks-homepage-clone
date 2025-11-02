@@ -10,7 +10,6 @@ A responsive **Starbucks Homepage Clone** built using **HTML5** and **CSS3**. Th
 ---
 
 ## 📸 Preview
-<!-- Add a screenshot by uploading image to GitHub and paste link below -->
 ![hero section](Screenshot%202025-08-06%20153919.png)
 ![content](Screenshot%202025-08-06%20153932.png)
 ![content](Screenshot%202025-08-06%20153944.png)
